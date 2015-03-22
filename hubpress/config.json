@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mdinaustin",
-    "repositoryName": "mdinaustin.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mdinaustin","repositoryName":"mdinaustin.github.io","branch":"master"},"site":{"title":"MDinAustin's Git Hub ","description":"A tale of adventure and misadventure while traveling the road of the unknown - a darker and more secure place than most have known. ","url":"https://mdinaustin.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//mdinaustin.github.io/themes/Casper"}}
