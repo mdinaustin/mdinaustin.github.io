@@ -1,0 +1,6 @@
+= Welcome and Hello!
+
+
+*Welcome to the MDinAustin's World* 
+
+A blog on github about everything related to coding and development. 
